@@ -33,7 +33,7 @@ HOW TO SETUP INDIUM
 
 
 If you would like to make a visual tutorial on how to setup Indium, Join the discord and make a ticket.
-https://discord.gg/qEZEADqsbX
+(DISCORD AT TOP)
 
 
 Also just a heads up this is not to be used for your "projects" this is a development tool only.
@@ -46,6 +46,4 @@ Cheers!
 
 Oliver (bvb.innit)
 
-
-INDIUM DISCORD: https://discord.gg/qEZEADqsbX
 
