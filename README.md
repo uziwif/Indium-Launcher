@@ -1,6 +1,6 @@
 
-                                                                 MADE BY @bvb.innit
-                                                           https://discord.gg/qEZEADqsbX
+                                                          MADE BY @bvb.innit
+                                                     https://discord.gg/qEZEADqsbX
                                                             
                                                            
 
