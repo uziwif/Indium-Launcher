@@ -6,6 +6,7 @@
 
 
 This launcher was made to use old fortnite files and launch them and test development usage for public servers. An alternative to Reboot.
+Not open source but maybe in future i will maybe make it. It depends.
 
 
 ## 🚀 Usage
@@ -17,7 +18,7 @@ paks (maybe)
 
 gameservers (config in settings)
 
-dlls (auto inject in settings, therefore the development of cheats will be allowed, but not advised.)
+dlls (auto inject config in settings, instead of having to use UUU)
 
 backend development testing (config in settings)
 
@@ -71,7 +72,8 @@ You can report bugs or ask for help by joining the official Indium Discord here:
 ## 🌟 Bottom Line and Notes
 
 This is not to be used for your "projects" this is a development tool only. Indium was made by developers for developers so if you are a skid then leave.
-Please star and share the discord server around. I will really appreciate it! ALSO please note that this is NOT finished and constantly going under development therefore be patient.
+Please star and share the discord server around. I will really appreciate it! ALSO please note that this is NOT finished and constantly going under development therefore report any bugs in the discord
+and be patient for bug fixes and new updates.
 
 Cheers!
 
