@@ -39,24 +39,16 @@ Written tutorial:
 
 2.) extract it.
 
-3.) find it and open with visual studio.
+3.) run the installer.
 
-4.) [PLACEHOLDER-UNFINISHED]
+4.) once installed, open and find the version you want or import a version.
 
-5.) click debug (or release) at the top and make sure its on release, then press start.
+5.) press launch on the version you selected.
 
-6.) head to the bin file of the Indium Launcher and find IndiumLauncher.exe and run it.
+6.) for change of backend or gameserver config in 'settings' page.
 
-7.) once in the launcher, head over to libary and either download or import your build.
+7.) for any support join the discord server. https://discord.gg/qEZEADqsbX
 
-8.) if you dont know what build to download head over to the patch notes tab, will tell you patch notes for all versions displayed in launcher.
-
-9.) once downloaded or imported click launch (verify files if imported to be safe!)
-
-10.) enjoy!
-
-
-For more help, Join the Discord server at the top of the README.
 
 
 
